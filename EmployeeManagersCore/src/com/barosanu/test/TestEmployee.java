@@ -23,7 +23,7 @@ public class TestEmployee {
 		assertTrue(employee.getAccessLevel().equals(AccessLevel.NORMAL));
 		assertTrue(employee.getAge() == 23);
 		assertTrue(employee.getId() == 1);
-		assertTrue(employee.getName() == "John Doe");
+		assertTrue(employee.getName() == "John Doeee");
 	}
 
 }
